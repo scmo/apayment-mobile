@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/moritz/dev/repos/raus_mobile-master/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/home/moritz/dev/repos/raus_mobile-master/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/moritz/dev/repos/apayment-mobile/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/home/moritz/dev/repos/apayment-mobile/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    }
+]

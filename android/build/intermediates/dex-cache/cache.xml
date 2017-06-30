@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/moritz/dev/repos/apayment-mobile/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.43.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="dd7e9e4044d541b253c526294b9f4985029d846c">
+        <dex dex="/home/moritz/dev/repos/apayment-mobile/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.43.2_79b668a83d5ff7176a5a6d9442d0d5ae5c453813.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/moritz/dev/repos/apayment-mobile/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/moritz/dev/repos/apayment-mobile/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_f8559329aeeeba3788a4744b895392f6b43923c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/moritz/dev/repos/apayment-mobile/android/app/build/intermediates/exploded-aar/raus_mobile/react-native-svg/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1ff508d56846945230e09422d55b5ee55132b1d7">
+        <dex dex="/home/moritz/dev/repos/apayment-mobile/android/app/build/intermediates/pre-dexed/debug/raus_mobile-react-native-svg-unspecified_e5a69981c86b6f52e3c5d32592bd1be1dbf0c5a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/moritz/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/home/moritz/dev/repos/raus_mobile-master/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_cd6e0bb103ff0d11cec2aa892913d39b4868c5fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/moritz/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/moritz/dev/repos/raus_mobile-master/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_497b03a7c40a0dd27675d50249ad9d31b78c9786.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/moritz/dev/repos/raus_mobile-master/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
+        <dex dex="/home/moritz/dev/repos/raus_mobile-master/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.0.1_6c30e9c248442be8d4c885dca05c7d58714d2175.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/moritz/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/moritz/dev/repos/raus_mobile-master/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_8318bc83de5deaaee87b9804c99ec59259196e4d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/moritz/dev/repos/apayment-mobile/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/home/moritz/dev/repos/apayment-mobile/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_9af825027185c48203a3f9048f2f9da78318d5ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/moritz/dev/repos/apayment-mobile/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/home/moritz/dev/repos/apayment-mobile/android/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.4.0_1a450469421a6e81a08818776401d2f0d8f2a2f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/moritz/dev/repos/apayment-mobile/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
+        <dex dex="/home/moritz/dev/repos/apayment-mobile/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.0.1_ed1ac311baf1684675401d134545e5254eb57a66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/moritz/dev/repos/raus_mobile-master/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
+        <dex dex="/home/moritz/dev/repos/raus_mobile-master/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.0.1_5fa279a2d909944df74dfccc71da2ec2baef496e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/moritz/dev/repos/apayment-mobile/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/moritz/dev/repos/apayment-mobile/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_5a045a24b31db48b15211f7898990defa524b2f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/moritz/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/home/moritz/dev/repos/raus_mobile-master/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1_cc773e58c33f9ee20183f99763eb9f4ecb39b8e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/moritz/dev/repos/apayment-mobile/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
+        <dex dex="/home/moritz/dev/repos/apayment-mobile/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.0.1_a5fe785bc860e8f254b9c9837652b49841ca58f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/moritz/dev/repos/raus_mobile-master/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
+        <dex dex="/home/moritz/dev/repos/raus_mobile-master/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.0.1_c841baf1aa40e33a7cdb6a027e1ab2f5c0e93e95.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/moritz/dev/repos/raus_mobile-master/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.43.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="dd7e9e4044d541b253c526294b9f4985029d846c">
+        <dex dex="/home/moritz/dev/repos/raus_mobile-master/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.43.2_58a83732ff6829a1f1bf156ce136f046493fd4c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/moritz/dev/repos/raus_mobile-master/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.43.2/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
+        <dex dex="/home/moritz/dev/repos/raus_mobile-master/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5_de7d75afd360274b598cd5105672813287a27a39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/moritz/dev/repos/apayment-mobile/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.43.2/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
+        <dex dex="/home/moritz/dev/repos/apayment-mobile/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5_ae07ca6773659859615d79a494484463f0fb6e73.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/moritz/dev/repos/raus_mobile-master/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
+        <dex dex="/home/moritz/dev/repos/raus_mobile-master/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.0.1_53152da38d349a17cf19faf85cca38b54d9de287.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/moritz/dev/repos/apayment-mobile/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
+        <dex dex="/home/moritz/dev/repos/apayment-mobile/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.0.1_2a1aebc41ce7e3a473b8a70051ecd33fb6726df5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/moritz/dev/repos/raus_mobile-master/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/home/moritz/dev/repos/raus_mobile-master/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_c348eb664d559b872c55d5e252f18a4938720cdf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/moritz/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/home/moritz/dev/repos/raus_mobile-master/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_87b404eeab1890f687e27606656cc454d7e9ed48.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/moritz/dev/repos/raus_mobile-master/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
+        <dex dex="/home/moritz/dev/repos/raus_mobile-master/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.0.1_fae60e5759604acd17914bc9e8209baee1a9b0fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/moritz/dev/repos/raus_mobile-master/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/home/moritz/dev/repos/raus_mobile-master/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_d8446cdf9e7bdacd271c53eeadee05c31270d5a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/moritz/dev/repos/raus_mobile-master/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
+        <dex dex="/home/moritz/dev/repos/raus_mobile-master/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.0.1_c861503ddbf40a4b16be0abfcdaea0885417b3df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/moritz/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/home/moritz/dev/repos/raus_mobile-master/android/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1_0c7df12d2fede8744e3206b6b74936b6fb9fede6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/moritz/dev/repos/apayment-mobile/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/moritz/dev/repos/apayment-mobile/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_00a037c4c96baec305e6b62662609f5a591afc5d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/moritz/dev/repos/apayment-mobile/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
+        <dex dex="/home/moritz/dev/repos/apayment-mobile/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.0.1_c922a0b2b7b548357c1b54f1ecb7dfc161bc11bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/moritz/dev/repos/raus_mobile-master/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/moritz/dev/repos/raus_mobile-master/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_eaea7e774ff242403da7ebb3c09ee8dafbe481fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/moritz/dev/repos/raus_mobile-master/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/home/moritz/dev/repos/raus_mobile-master/android/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.4.0_971aa8b99dc456c946e53292f8a033d20ebae220.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/moritz/dev/repos/apayment-mobile/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
+        <dex dex="/home/moritz/dev/repos/apayment-mobile/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.0.1_de1725070663fd17dd0001609bbe5da1614b5fb3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/moritz/dev/repos/raus_mobile-master/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/moritz/dev/repos/raus_mobile-master/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_79433000b8b5d82d9a057e3557d751e5e57167c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/moritz/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/home/moritz/dev/repos/raus_mobile-master/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.4.1_fc667991d8bc6271bbea51648a6b30c8aea0cbf1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/moritz/dev/repos/raus_mobile-master/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/moritz/dev/repos/raus_mobile-master/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_f6f4225258aa97f78a9220aa95834b6a38bf9301.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/moritz/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/moritz/dev/repos/raus_mobile-master/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_d6553109a4dd4e36e4e948fd67c886acab554231.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/moritz/dev/repos/apayment-mobile/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
+        <dex dex="/home/moritz/dev/repos/apayment-mobile/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.0.1_441d17f15c421f8bc4702a836f40890a13f207b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/moritz/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/home/moritz/dev/repos/raus_mobile-master/android/app/build/intermediates/pre-dexed/debug/okio-1.9.0_1153acff269860e7b0ab332e277d7b269bfefdc0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/moritz/dev/repos/apayment-mobile/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/home/moritz/dev/repos/apayment-mobile/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_c7a4db3d8d961c88c702e450815c85aeb7597b33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/moritz/dev/repos/raus_mobile-master/android/app/build/intermediates/exploded-aar/raus_mobile/react-native-svg/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1ff508d56846945230e09422d55b5ee55132b1d7">
+        <dex dex="/home/moritz/dev/repos/raus_mobile-master/android/app/build/intermediates/pre-dexed/debug/raus_mobile-react-native-svg-unspecified_265808da5de94ca51a26fc1e71867fdb8da6eb87.jar" />
+    </item>
+
+</items>

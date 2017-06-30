@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/moritz/dev/repos/raus_mobile-master/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/home/moritz/dev/repos/raus_mobile-master/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.43.2/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/home/moritz/dev/repos/apayment-mobile/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/home/moritz/dev/repos/apayment-mobile/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.43.2/res/xml/preferences.xml"
+    }
+]
