@@ -24,32 +24,32 @@ import localStore from '../../utilities/localStore'
 function prepareData(categories){
   var tvds = new Set()
   var newCategories = []
-  for (var i = categories.categories.length - 1; i >= 0; i--) {
+  for (var i = categories.length - 1; i >= 0; i--) {
     var newCows = []
-    for (var j = categories.categories[i].cows.length -1; j >= 0; j--){
+    for (var j = categories[i].cows.length -1; j >= 0; j--){
       var newCow = {
-        tvd:categories.categories[i].cows[j].tvd,
-        journal:categories.categories[i].cows[j].journal,
-        added:categories.categories[i].cows[j].added,
+        tvd:categories[i].cows[j].tvd,
+        journal:categories[i].cows[j].journal,
+
         isSelected:true,
-        name:categories.categories[i].cows[j].name,
+        name:categories[i].cows[j].name,
         latestJournalEntry:{
-          year:categories.categories[i].cows[j].latest_journal_entry.year,
-          month:categories.categories[i].cows[j].latest_journal_entry.month,
-          day:categories.categories[i].cows[j].latest_journal_entry.day,
-          minutesOutside:categories.categories[i].cows[j].latest_journal_entry.minutes_outside,
-          category:categories.categories[i].cows[j].latest_journal_entry.category,
-          typeOfLairage:categories.categories[i].cows[j].latest_journal_entry.type_of_field_lairage,
+          year:categories[i].cows[j].latest_journal_entry.year,
+          month:categories[i].cows[j].latest_journal_entry.month,
+          day:categories[i].cows[j].latest_journal_entry.day,
+          minutesOutside:categories[i].cows[j].latest_journal_entry.minutes_outside,
+          category:categories[i].cows[j].latest_journal_entry.category,
+          typeOfLairage:categories[i].cows[j].latest_journal_entry.type_of_field_lairage,
         }
       }
       newCows.push(newCow)
       tvds.add(newCow.tvd)
     }
     var newCategory = {
-      category: categories.categories[i].category,
+      category: categories[i].category,
       isSelected: true,
       cows: newCows,
-      numSelectedCows: categories.categories[i].cows.length
+      numSelectedCows: categories[i].cows.length
     }
     newCategories.push(newCategory)
   }
@@ -129,7 +129,7 @@ class SelectCategories extends Component {
     for (var i = this.state.categories.length - 1; i >= 0; i--) {
       for (var j = this.state.categories[i].cows.length - 1; j >= 0; j--) {
         if (this.state.categories[i].cows[j].isSelected){
-          selectedCows.add(this.state.categories[i].cows[j].tvd)
+          selectedCows.add({'tvd': this.state.categories[i].cows[j].tvd})
         }
       }
     }

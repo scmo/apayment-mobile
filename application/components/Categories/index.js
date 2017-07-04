@@ -31,8 +31,8 @@ class Categories extends Component {
     localStore.getToken().then((res)=>{
       this.setState({token:res})
       api.getCowsByCategory(res).then((res) => {
-        this.setTypeOfCategory(res.categories)
-        this.setState({categories:res.categories})
+        this.setTypeOfCategory(res)
+        this.setState({categories:res})
         this.setState({ready:true})
       });
     })
@@ -41,7 +41,7 @@ class Categories extends Component {
     this.setState({ready:false})
     api.getCowsByCategory(this.state.token).then((res) => {
       console.log(res);
-      this.setState({categories:res.categories})
+      this.setState({categories:res})
       this.setState({ready:true})
     });
   }

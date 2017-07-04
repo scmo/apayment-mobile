@@ -46,7 +46,6 @@ class Login extends Component {
     else{
       api.login(this.state.email, this.state.password).then((res) => {
         if (typeof res.token != 'undefined'){
-          alert(JSON.stringify(res));
           localStore.deleteToken()
           localStore.setToken(res.token)
           this.setState({errorMessage:''})

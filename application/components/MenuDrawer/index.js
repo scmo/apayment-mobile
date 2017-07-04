@@ -39,8 +39,17 @@ class MenuDrawer extends Component {
       console.log(res);
       api.getUser(res).then((res2) => {
         console.log(res2);
+        // if ('error' in res2){
+        //   localStore.deleteToken()
+        //   this.props.navigator.resetTo({
+        //     name:"Login"
+        //   })
+        // }else{
+        //   this.setState({user:res2})
+        //   this.setState({ready:true})
+        // }
         if(typeof res2.error === 'undefined'){
-          this.setState({user:res2.user})
+          this.setState({user:res2})
           this.setState({ready:true})
           console.log(this.state.user);
         }

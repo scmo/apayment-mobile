@@ -36,7 +36,7 @@ var api = {
     .catch((e) => handleError(e))
   },
   getUser(token){
-    return fetch(baseUrl + 'api/me', {
+    return fetch(baseUrl + 'user/profile', {
       mode: 'no-cors',
       method: 'GET',
       headers:{
@@ -62,7 +62,7 @@ var api = {
   },
 
   getCowsByCategory(token, farmId){
-    return fetch(baseUrl + 'api/cows-by-category', {
+    return fetch(baseUrl + 'category', {
       method: 'GET',
       mode: 'no-cors',
       headers:{
@@ -76,7 +76,7 @@ var api = {
 
   addJournalEntry(token, tvds, year, month, day, minutesOutside, typeOfLairage){
     console.log("lairage", typeOfLairage);
-    return fetch(baseUrl + 'api/journal', {
+    return fetch(baseUrl + 'journal', {
       method: 'POST',
       headers:{
         "Authorization": "Bearer " + token
@@ -142,7 +142,7 @@ var api = {
     .catch((e) => handleError(e))
   },
   getMonthlyStats(token, month, year){
-    return fetch(baseUrl + 'raus/monthlystats?year=' + year + '&month=' + month, {
+    return fetch(baseUrl + 'journal/monthlystats?year=' + year + '&month=' + month, {
       method: 'GET',
       headers:{
         "Authorization": "Bearer " + token,
@@ -164,6 +164,7 @@ function checkStatus(res){
   } else {
     let error = new Error("Error Code: " + res.status);
     res.error = "error";
+    alert("ERROR: checkStatus");
     //console.log(res);
     return res
   }

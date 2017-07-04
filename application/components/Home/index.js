@@ -57,9 +57,11 @@ class Dashboard extends Component {
   getMonthlyStats(token, month, year){
 
     api.getMonthlyStats(token, month, year).then((res) => {
+
       if(typeof res.error === 'undefined'){
+        
         this.setState({
-          monthlyStats:res.monthly_stats,
+          monthlyStats:res,
           ready:true,
         })
       }
@@ -70,6 +72,7 @@ class Dashboard extends Component {
           name:"Login"
         })
       }
+      
     });
   }
 
@@ -157,7 +160,7 @@ class Dashboard extends Component {
                     lowest={category.lowest_days}
                     highest={category.maximum_days}
                     max={category.number_of_days_required}
-                    goToCategory={this.goToCategory.bind(this)}/>
+                    goToCategory={ this.goToCategory.bind(this)} />
                   )
                 })}
               </Content>
